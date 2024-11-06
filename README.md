@@ -10,6 +10,7 @@ My goal within this project is to take the time to examine my understanding of A
 
 ## An appreciation of human-made art: Rothko, Arcane Gold, Zurbarán, and JEB
 ### Rothko
+<img src="(file name)">
 I have many thoughts on this painting, much of it applying to Rothko’s art in general. Much like with most of Rothko’s art, this piece first gives me a profound sense of awe. At first glance, one sees a vibrant swath of a bright red contrasted against a deeper maroon and a dark blue. As you look closer, you can see hints of each individual light layer of paint built up to create incredible depth of color and within the piece in its entirety. Compared against earlier work by Rothko, a difference is clearly apparent. A shift away from his previous more lively pallets gives a new perspective to this piece, confronting the viewer with a new mixture of emotions: namely sadness, and a sense of grief and loss if you are familiar with Rothko’s life story. 
 
 ^revise all of that tbh

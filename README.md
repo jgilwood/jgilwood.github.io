@@ -19,6 +19,7 @@ I have many thoughts on this painting, much of it applying to Rothko’s art in 
 <img src="img/LePrintempsOg">
 <sub>Arcane Gold, Reimagining of Cot’s *Le Printemps* for *Classics…But Make It Gay* art book, 2021</sub>
 <br>
+
 My most surface-level feelings about this piece is simple adoration (The way this depiction of Achilles gazes upon Patroclus is not unlike the way I look at this piece). The lighting, the understanding of human form, the artist’s ability to take what was already a gorgeous painting and add their own perspective on it that only makes it more meaningful to me. To any who question the idea that digital art is true art, I raise this piece: the raw capturing of emotion, the use of color, form, light, shadow, all the traditional gauges of meaningful and beautiful art are on peak display here. I look at this, and I feel pride. Seeing an iconic depiction of pure love reimagined as queer and trans by a queer and trans artist fills me with such a strong sense of joy. I feel honored to have parts of myself represented in such a beautiful way. I am a sucker, for better or for worse, for religious imagery, especially in queer art, and the halo that faintly frames Achilles’ face, holding him, shown here as explicitly queer and trans, as close to Godliness, makes my breath catch in my throat. I really could look at this for hours (and have done so), trying to appreciate every single detail and trace every muscle or fold of fabric. To me, this is divine.
 
 ### Zurbaran

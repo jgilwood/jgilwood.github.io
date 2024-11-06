@@ -16,7 +16,6 @@ I have many thoughts on this painting, much of it applying to Rothko’s art in 
 ^revise all of that tbh
 
 ### Arcane Gold
-![IMG_8609](https://github.com/user-attachments/assets/45dabf72-2b68-4587-a844-9086a14f2b9b)
 <img src="img/LePrintempsOg">
 <sub>Arcane Gold, Reimagining of Cot’s *Le Printemps* for *Classics…But Make It Gay* art book, 2021</sub>
 

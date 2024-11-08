@@ -1,5 +1,5 @@
 # Why doesn't AI generated art carry the same emotional weight as human-made art?
-## An Artist's Introduction to Art and AI
+## An Artist's (and Data Science Student's) Introduction to Art and AI
 
 I have been making art my entire life and have considered myself an artist for more than half of it, and I have strong feelings on generative AI and art. I was almost opposed to doing this project because I have been so staunchly against the idea of even touching AI generated art, but I feel this is a chance for me to get a better perspective on generative AI and its use in art, something I believe will prove useful as I go into the world as an artist and have to face new conversations about the place AI will take in my practice.
 

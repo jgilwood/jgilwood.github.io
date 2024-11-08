@@ -11,6 +11,9 @@ My goal within this project is to take the time to examine my understanding of A
 ## An appreciation of human-made art: Rothko, Arcane Gold, Zurbarán, and JEB
 ### Rothko
 <img src="img/CC Rothko og.png">
+<sub> Mark Rothko, *No. 14 1960*, 1960 </sub>
+<br>
+
 I have many thoughts on this painting, much of it applying to Rothko’s art in general. Much like with most of Rothko’s art, this piece first gives me a profound sense of awe. At first glance, one sees a vibrant swath of a bright red contrasted against a deeper maroon and a dark blue. As you look closer, you can see hints of each individual light layer of paint built up to create incredible depth of color and within the piece in its entirety. Compared against earlier work by Rothko, a difference is clearly apparent. A shift away from his previous more lively pallets gives a new perspective to this piece, confronting the viewer with a new mixture of emotions: namely sadness, and a sense of grief and loss if you are familiar with Rothko’s life story. 
 
 ^revise all of that tbh
@@ -24,10 +27,17 @@ My most surface-level feelings about this piece is simple adoration (The way thi
 
 ### Zurbaran
 <img src="img/AgnusDeiOg">
+<sub> Francisco de Zurbarán, *Agnus Dei ('Lamb of God')*, ca. 1635-1640. </sub>
+<br>
+
 What did I say! I like religious imagery! With this painting specifically, my love for it comes from the composition, the posing of the lamb. Yes, it is bound, but it doesn’t struggle against its bindings. Best as we can tell, it lies still, calm, maybe it has accepted this fate, or perhaps it wanted this fate all along. I cannot decide whether I feel pity for the lamb (pity for how it ended up in this position? Pity for its desire to stay?) or if I laugh at the lamb, I scorn it for its willingness to accept the promise that its life (and death) will mean something. Or maybe I feel I am the lamb, bound by an unseen presence, one I know must be there, but is not within frame, accepting the path my life has been set upon (do I wish to be pitied or scorned?). This lamb is holy, though we do not know why. Was it chosen for sacrifice by God, or by the shepard? Is the faint halo a true sign of divinity or an odd trick of the light? The scene around the lamb is in total darkness, and yet we see it in perfect light; is this, too, a sign of holiness? This painting leads me to an endless maze of questions, where each turn I take I am simply met with a new concept to ponder. 
 
 ### JEB
 <img src="img/JEBOg">
+<sub>JEB, *Priscilla and Regina. Brooklyn (From Eye to Eye: Portraits of Lesbians)*, 1979
+</sub>
+<br>
+
 To me, this photograph is so unbelievably tender and delicate, not for a lack of strength within the image, but for the pure power of the vulnerability shown in it. The subjects chose to let the photographer into their lives, chose to let her share it publicly. I’m sure I don’t have to explain the importance behind such a vulnerable display of queer love, especially in the time this was taken, so I won’t. Lesbian love isn’t something often portrayed so genuinely and full of heartfelt care as it is here. With the photographer, the subjects, and myself as the viewer all being lesbians, when I look at this, I feel a sense of security and safety. A moment of peace shared between people in community. Their body language shows peace: faces relaxed, not an ounce of tension in their positions, I can almost hear the quiet birds chirping and the slight rustle of the grass in the breeze, but not a sound more to disturb them. Whether intentional or not, heart imagery can be found everywhere within this image: from the way the lovers’ heads lie together, to the shape where one’s chin and shoulder meets the other’s. It gives me a sense of domesticity. Domesticity is something women (used here as a simple way to refer to the plethora of different genders that exist within womanhood and Lesbianism, not just classically binary women) are often relegated to. For centuries, the domestic work and existence of women has been something expected of them, and therefore undeserving of recognition. JEB’s photograph, however, is a moment of pause to appreciate this domesticity in only a way that someone who has existed within that domestic role truly can, pulling from JEB’s own life experiences as a Lesbian. It gives me a sense of hope. That someday I will be a comfortable, happy Lesbian, holding a lover in my arms, not for fear of losing them, but for the sheer fact that I love to hold them, because we understand each other in a way no one else does.
 ## An attempt at using generative AI
 

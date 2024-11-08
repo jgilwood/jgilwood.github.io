@@ -34,6 +34,8 @@ To me, this photograph is so unbelievably tender and delicate, not for a lack of
 
 #### new intro about my doubts abt using AI to like preface everything yk yk yeahhhh
 
+### Rothko
+
 *'Generate an image of an oil painting made up of many light washes of colors, creating a vibrant final result that has some of the layers showing near the edge of the painting. The background of the painting is a deep purple. This background acts as a border around the central colors of the piece, which has a dark blue in the bottom quarter of the image and a bright red in the top three quarters of the image. Between the blue and red, the purple border extends to separate the two colors.'* **Google Gemini**
 
 <img src="img/RothkoAI1">
@@ -49,6 +51,7 @@ I generated the first image with Google Gemini AI (mostly because ChatGPT only g
 
 Now understanding that ChatGPT wants a more specific style regarding the abstraction of the image, I gave it that in a new prompt, and the result is… certainly closer in appearance. When I look at this, I am reminded of hotel art: a painting that is hung up in the hallway by the elevators that has no artist’s name near it so even if I felt strongly about the work I couldn’t look into the artist further, just nice enough to give me something to look at for no longer than the time it takes for the elevator to reach my floor and me to maybe point to and say “That looks pretty” to whoever I’m with. It feels like it's made for consumption. To have eyes glaze over it without any intention of really taking in the work, simply being there because the style is inoffensive and it looks nice enough and the colors match the wallpaper—the antithesis of how I understand a Rothko. Especially the painting I included here, Rothko’s works are meant to be seen and understood and taken in at a massive scale. They can be poured over for hours and still leave the viewer with a sense of wanting to understand and see more—I don’t want to look at this image for any longer than it takes me to write this analysis. It feels uninspired. 
 
+### Arcane Gold
 
 *'Generate a painting in a classical-romantic style of two male lovers seated on a rope swing in the woods together. The smaller lover is blond and has his arms wrapped around his partner, wearing a classic Greek-inspired semi-transparent white linen wrap that hangs open around his arm, revealing scars from a double mastectomy on his chest. He looks at his lover with a face of pure adoration and love. His feet are tucked below him on the swing, with one ankle having an arrow piercing through it. Behind his head, a halo is faintly visible. The taller person has his hands wrapped securely around the rope of the swing, one foot kicked out in front of him and the other folded back. His face is barely visible to the viewer, instead looking down at the other individual. His hair is a dark brown and curly, and he wears orange cloth fitted like a shirt and shorts, with a brown wrap around his midsection. The couple is lit from behind, casting the front of their bodies in shadow and backlighting them in a warm yellow light. The forest behind them is lush and beautiful, with a large, sturdy tree nearby to the couple, holding up the swing off-screen'* **ChatGPT**
 
@@ -58,31 +61,31 @@ With this prompt I generated these two images (the second one with the request t
 <img src="img/LePrintempsAI2">
 These images are definitely interesting, and aesthetically pleasing to look at for sure, but they do not capture what I find to be so beautiful about the original piece. Ignoring some obvious things (like that ChatGPT did not seem to know what I meant by a “double mastectomy scar”, and instead put a strange mark onto one of the lover’s chest/back (and the wrong one for that matter)), there simply is not the same affection that is so powerful and palpable in the original image. The AI is able to get many technical things right—such as in the second iteration, the backlighting through the fabric is very pretty and is fairly impressive for the consistency (for lack of a better word) it shows, but the expressions of the people in each image are much more simple and do not have the same nuance of emotion as in the original piece (which, in all honesty, could be an issue on my behalf; iIt is entirely possible I just did not describe the expressions of the two characters well enough, but that is another issue with generative AI art. It is incredibly hard to make fine-tuned adjustments to anything in these images since, with every new generation, the image entirely changes, unlike in traditional art). A possible bias I noticed with these images is that ChatGPT seemingly interpreted when I described one of the lovers (the Achilles representation or “blond lover”) as being smaller than the other, it seemingly interpreted this as meaning this character was more feminine (or possibly younger?). The Patroclus representation, in both AI generations, has visible facial hair and body hair as well. The “smaller” lover, however, has no facial hair in either generation and no body hair in the second one. 
 
+### Zurbarán
 
-(for some reason, the line break isnt working here. fix that)
-
-
-*‘Generate an image of a painting in a renaissance style of a white lamb on dark wood, with a black background behind it. The angle is slightly above the lamb, looking down at it lying on the surface. The legs of the lamb are tied together, though the lamb does not look to be in distress. Its visible ear is turned down in a sign of calmness and its chin rests on the wood surface. Above its head, there is a very faint halo that can barely be seen against the dark background. The painting has an air of solemnity.'* ChatGPT
+*‘Generate an image of a painting in a renaissance style of a white lamb on dark wood, with a black background behind it. The angle is slightly above the lamb, looking down at it lying on the surface. The legs of the lamb are tied together, though the lamb does not look to be in distress. Its visible ear is turned down in a sign of calmness and its chin rests on the wood surface. Above its head, there is a very faint halo that can barely be seen against the dark background. The painting has an air of solemnity.'* **ChatGPT**
 
 <img src="img/AgnusDeiAI1">
+
 My first attempt with this prompt missed what I feel are the two most key features of the painting: the tied legs of the lamb and the halo. Before picking into the way that this doesn’t inspire the same emotions in me the original does, I’ll focus on the technical aspects. With this, I’d love to point out one fairly common thread among AI generated art, the smoothness that accompanies the “AI art style”. The entire lamb feels as though it has been smoothed out almost. Even with the emulated paintrokes I can see over the image, it still feels very fake and artificial, in a  way even beyond the smoothness of human-made digital art (such as the previous Le Printemps piece which, despite being digital, still has varied textures and feels (for lack of a better word) genuine). The shadows have an odd harshness that make the lighting feel uncanny and draw my attention in a bad way. In regards to the emotions of the piece, what strikes me the most is how the difference in intentionality shifts the way I perceive the original work and this image. In the original, I know every bit of that work was an intentional and deliberate choice made by Zurbarán, which is what led me to have so many questions about the piece for the most part. But here, knowing that this work was made by an AI driven by a prompt without the direct involvement of an artist to make these deliberate decisions (the disconnect between the human prompter and the AI generating the image feels especially apparent in the way the image does not have two of the thing I had included in the prompt) leaves me with no yearning feeling to understand and analyze and interpret everything I am seeing—it makes me a passive observer (which is the antithesis of how I think art is best enjoyed, with the viewer actively digging into the piece in some way). 
 
 I asked ChatGPT to regenerate the image with the modification that *'there is a halo above the lamb's head and its legs are tied together'* which gives me an interesting result. There is neither a halo nor are the lamb’s legs tied together, it simply zoomed the image in to be focused on the lamb’s head. I am curious about the way the AI seems unable to incorporate these two features (halo, legs tied) into the image. 
 
 <img src="img/AgnusDeiAI2">
-*'the image still does not have the halo or the lambs legs tied together, can you generate an image with these two features included.'*
+
+*"the image still does not have the halo or the lambs legs tied together, can you generate an image with these two features included."*
 
 <img src="img/AgnusDeiAI3">
 Improvement, the halo is now present, but it’s lost the solemnity of the image, and the legs are still not tied. The AI seems to understand that the halo implies holiness, but that holiness implies a lighter or almost innocent appearance of the painting—the way the lamb now faces the viewer, its leg extended forward over the wood—it doesn’t seem to be able to understand the more nuanced idea that the original painting is portraying that something can be holy but not good. 
 
-*'could you make the image feel more solemn again?'*
+*"could you make the image feel more solemn again?"*
 
 <img src="img/AgnusDeiAi4">
 I think this better captures the artistic style of the original, somewhat,  but with the key difference of the lamb’s posture. This rendition has both the tied legs (not all of them, but good enough) and the halo (not quite faint, but once again good enough), and has a similar darkness that feels as though it should be solemn, but again it feels as though it lacks some integral human touch that brings the original piece together. The stillness within this image has a different sense of calm not present in Zurbarán’s original. The posture of the lamb, the AI having disregarded the instruction to have the lamb’s head on the ground, gives a feeling of pride to the lamb that is purposefully absent from the original. Even when I asked for a more solemn image, ChatGPT seems to be struggling with the idea of not making a holy or religious concept have a positive aura. 
 
 The finickiness of the entire process of attempting to work a clear vision through AI leads me to simply feel frustration with this image; it isn’t entirely what I want still, and I anticipate another regeneration to simply result in another insufficient result. Even with this frustration, I wouldn’t say that this “art” causes me to feel much, it is rather the process and tools I am using that frustrates me. 
 
-
+### JEB
 
 This work in particular is simply too beautiful and complex for me to even remotely understand how I could describe it in a way that would make it possible for an AI to generate anything even close to the original, in appearance and emotion. 
 
@@ -90,7 +93,7 @@ This work in particular is simply too beautiful and complex for me to even remot
 
 Returned with: *'I encountered some issues generating the image as requested.'* alongside the above image.
 
-### JEB ai
+<img src="img/JEBAI1">
 
 I am immediately fascinated by the bias apparent in this image. When asked to create an image with “two Black Lesbians”, ChatGPT created an image with two individuals who would be very classically read as men, the most telling feature being that they both appear to have facial hair. Now, I don’t personally believe that the individuals shown in this image could not be women and/or Lesbians (given that they were real people, of course, and not AI generated falsifications of people). Gender presentation and identity are complicated concepts that I believe exist over a huge spectrum. This is especially complicated within Lesbianism, which has a rich history of gender nonconformity and existing within or besides trans spaces. However, I don’t think ChatGPT believes this, and this grows clear when one considers other factors. Black women (and individuals who are societally grouped with or identified as women) have a long history of being viewed as more masculine than their white counterparts, a bias that easily could have been picked up by an AI model trained on databases curated by white people consciously or unconsciously upholding a white-supremacist idea. There are factors in the image that show a possible attempt at depicting these individuals as more classically women (namely that the figure on the upper half of the image seems to have some shading on their chest that might imply breasts), but at first glance, the average person would not read these as a Lesbian couple.
 
@@ -98,7 +101,7 @@ That the AI gave this image with the message that it “encountered some issues�
 
 *'could you make both individuals women?'*
 
-### JEB ai 2
+<img src="img/JEBAI2">
 
 Sure! Better now! They’re classically women! And have weird puzzle piece looking bits on them, but I have no idea what that has to do with anything and assume it simply to be an AI defect (or another symptom of ChatGPT having few and/or poor resources on how to depict Black women as regular and human looking, but that would imply ChatGPT has a racial bias that disproportionately affects Black women, an idea we (nor anyone else) have seen no evidence of ever! [Black Artists Say A.I. Shows Bias, With Algorithms Erasing Their History - The New York Times](https://www.nytimes.com/2023/07/04/arts/design/black-artists-bias-ai.html) oops! I accidentally linked an article!). Besides this, the image is bland. It doesn’t have the story and vulnerability of the original photograph. I really don’t have much more to say other than I am bored, utterly uninterested, and far more intrigued by the issues that came with generating it than the truly *nothingburger* image on my screen now.
 

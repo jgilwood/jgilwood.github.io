@@ -23,11 +23,11 @@ I have many thoughts on this painting, much of it applying to Rothko’s art in 
 My most surface-level feelings about this piece is simple adoration (The way this depiction of Achilles gazes upon Patroclus is not unlike the way I look at this piece). The lighting, the understanding of human form, the artist’s ability to take what was already a gorgeous painting and add their own perspective on it that only makes it more meaningful to me. To any who question the idea that digital art is true art, I raise this piece: the raw capturing of emotion, the use of color, form, light, shadow, all the traditional gauges of meaningful and beautiful art are on peak display here. I look at this, and I feel pride. Seeing an iconic depiction of pure love reimagined as queer and trans by a queer and trans artist fills me with such a strong sense of joy. I feel honored to have parts of myself represented in such a beautiful way. I am a sucker, for better or for worse, for religious imagery, especially in queer art, and the halo that faintly frames Achilles’ face, holding him, shown here as explicitly queer and trans, as close to Godliness, makes my breath catch in my throat. I really could look at this for hours (and have done so), trying to appreciate every single detail and trace every muscle or fold of fabric. To me, this is divine.
 
 ### Zurbaran
-
+<img src="img/AgnusDeiOg">
 What did I say! I like religious imagery! With this painting specifically, my love for it comes from the composition, the posing of the lamb. Yes, it is bound, but it doesn’t struggle against its bindings. Best as we can tell, it lies still, calm, maybe it has accepted this fate, or perhaps it wanted this fate all along. I cannot decide whether I feel pity for the lamb (pity for how it ended up in this position? Pity for its desire to stay?) or if I laugh at the lamb, I scorn it for its willingness to accept the promise that its life (and death) will mean something. Or maybe I feel I am the lamb, bound by an unseen presence, one I know must be there, but is not within frame, accepting the path my life has been set upon (do I wish to be pitied or scorned?). This lamb is holy, though we do not know why. Was it chosen for sacrifice by God, or by the shepard? Is the faint halo a true sign of divinity or an odd trick of the light? The scene around the lamb is in total darkness, and yet we see it in perfect light; is this, too, a sign of holiness? This painting leads me to an endless maze of questions, where each turn I take I am simply met with a new concept to ponder. 
 
 ### JEB
-
+<img src="img/JEBOg">
 To me, this photograph is so unbelievably tender and delicate, not for a lack of strength within the image, but for the pure power of the vulnerability shown in it. The subjects chose to let the photographer into their lives, chose to let her share it publicly. I’m sure I don’t have to explain the importance behind such a vulnerable display of queer love, especially in the time this was taken, so I won’t. Lesbian love isn’t something often portrayed so genuinely and full of heartfelt care as it is here. With the photographer, the subjects, and myself as the viewer all being lesbians, when I look at this, I feel a sense of security and safety. A moment of peace shared between people in community. Their body language shows peace: faces relaxed, not an ounce of tension in their positions, I can almost hear the quiet birds chirping and the slight rustle of the grass in the breeze, but not a sound more to disturb them. Whether intentional or not, heart imagery can be found everywhere within this image: from the way the lovers’ heads lie together, to the shape where one’s chin and shoulder meets the other’s. It gives me a sense of domesticity. Domesticity is something women (used here as a simple way to refer to the plethora of different genders that exist within womanhood and Lesbianism, not just classically binary women) are often relegated to. For centuries, the domestic work and existence of women has been something expected of them, and therefore undeserving of recognition. JEB’s photograph, however, is a moment of pause to appreciate this domesticity in only a way that someone who has existed within that domestic role truly can, pulling from JEB’s own life experiences as a Lesbian. It gives me a sense of hope. That someday I will be a comfortable, happy Lesbian, holding a lover in my arms, not for fear of losing them, but for the sheer fact that I love to hold them, because we understand each other in a way no one else does.
 
 ## An attempt at using generative AI
@@ -36,12 +36,11 @@ To me, this photograph is so unbelievably tender and delicate, not for a lack of
 
 *'Generate an image of an oil painting made up of many light washes of colors, creating a vibrant final result that has some of the layers showing near the edge of the painting. The background of the painting is a deep purple. This background acts as a border around the central colors of the piece, which has a dark blue in the bottom quarter of the image and a bright red in the top three quarters of the image. Between the blue and red, the purple border extends to separate the two colors.'* **Google Gemini**
 
-### Rothko AI 1
+<img src="img/RothkoAI1">
 
 This certainly isn’t flat or untextured, which is impressive for an AI generated image, but it still feels uninteresting. The original Rothko has depth and feeling. With this, I return to the intentionality behind the piece. The creation of Rothko’s work was meticulous and painstaking, layers upon layers of paint put down and dried and put down again. The generation of this image was near instant, and therefore makes me feel very little. I know thought and emotion didn’t go into this, and therefore I do not get any out of it. It doesn’t make me ponder the state of the artist, because I know this was made from just a few words and a Large Language Model to interpret them. Making this, I certainly don’t feel like an artist, and neither do I feel like the AI is an artist. This isn’t a glimpse into the mind of an individual (which is what any art is, arguably, whether it is technically “good” or not, whether it is intended to be or not) because the mind this came from and the tools that executed it are so disconnected that there is no fluid through-line. 
 
-### Rothko AI 2
-
+<img src="img/RothkoAI2">
 I generated the first image with Google Gemini AI (mostly because ChatGPT only gives three free generations a day and I had used those daily generations up already), but out of curiosity fed the same prompt into ChatGPT the next day, and was given this: even though I never directly mentioned the phrases “abstract” or “abstraction” in my prompt, ChatGPT described the image as an “abstract oil painting”, but did create a more detailed image than I had originally intended for.
 
 *'could you make the image simpler, more similar to a color field abstraction piece?'*
@@ -55,32 +54,31 @@ Now understanding that ChatGPT wants a more specific style regarding the abstrac
 
 With this prompt I generated these two images (the second one with the request to *“adjust it so we are looking at them from a partial side angle”*):
 
-### Arcane Gold AI
-
+<img src="img/LePrintempsAI1">
+<img src="img/LePrintempsAI2">
 These images are definitely interesting, and aesthetically pleasing to look at for sure, but they do not capture what I find to be so beautiful about the original piece. Ignoring some obvious things (like that ChatGPT did not seem to know what I meant by a “double mastectomy scar”, and instead put a strange mark onto one of the lover’s chest/back (and the wrong one for that matter)), there simply is not the same affection that is so powerful and palpable in the original image. The AI is able to get many technical things right—such as in the second iteration, the backlighting through the fabric is very pretty and is fairly impressive for the consistency (for lack of a better word) it shows, but the expressions of the people in each image are much more simple and do not have the same nuance of emotion as in the original piece (which, in all honesty, could be an issue on my behalf; iIt is entirely possible I just did not describe the expressions of the two characters well enough, but that is another issue with generative AI art. It is incredibly hard to make fine-tuned adjustments to anything in these images since, with every new generation, the image entirely changes, unlike in traditional art). A possible bias I noticed with these images is that ChatGPT seemingly interpreted when I described one of the lovers (the Achilles representation or “blond lover”) as being smaller than the other, it seemingly interpreted this as meaning this character was more feminine (or possibly younger?). The Patroclus representation, in both AI generations, has visible facial hair and body hair as well. The “smaller” lover, however, has no facial hair in either generation and no body hair in the second one. 
+
+
+(for some reason, the line break isnt working here. fix that)
+
 
 *‘Generate an image of a painting in a renaissance style of a white lamb on dark wood, with a black background behind it. The angle is slightly above the lamb, looking down at it lying on the surface. The legs of the lamb are tied together, though the lamb does not look to be in distress. Its visible ear is turned down in a sign of calmness and its chin rests on the wood surface. Above its head, there is a very faint halo that can barely be seen against the dark background. The painting has an air of solemnity.'* ChatGPT
 
-### lamb Ai 1
-
+<img src="img/AgnusDeiAI1">
 My first attempt with this prompt missed what I feel are the two most key features of the painting: the tied legs of the lamb and the halo. Before picking into the way that this doesn’t inspire the same emotions in me the original does, I’ll focus on the technical aspects. With this, I’d love to point out one fairly common thread among AI generated art, the smoothness that accompanies the “AI art style”. The entire lamb feels as though it has been smoothed out almost. Even with the emulated paintrokes I can see over the image, it still feels very fake and artificial, in a  way even beyond the smoothness of human-made digital art (such as the previous Le Printemps piece which, despite being digital, still has varied textures and feels (for lack of a better word) genuine). The shadows have an odd harshness that make the lighting feel uncanny and draw my attention in a bad way. In regards to the emotions of the piece, what strikes me the most is how the difference in intentionality shifts the way I perceive the original work and this image. In the original, I know every bit of that work was an intentional and deliberate choice made by Zurbarán, which is what led me to have so many questions about the piece for the most part. But here, knowing that this work was made by an AI driven by a prompt without the direct involvement of an artist to make these deliberate decisions (the disconnect between the human prompter and the AI generating the image feels especially apparent in the way the image does not have two of the thing I had included in the prompt) leaves me with no yearning feeling to understand and analyze and interpret everything I am seeing—it makes me a passive observer (which is the antithesis of how I think art is best enjoyed, with the viewer actively digging into the piece in some way). 
 
-### lamb ai 2
-
+<img src="img/AgnusDeiAI2">
 I asked ChatGPT to regenerate the image with the modification that *'there is a halo above the lamb's head and its legs are tied together'* which gives me an interesting result. There is neither a halo nor are the lamb’s legs tied together, it simply zoomed the image in to be focused on the lamb’s head. I am curious about the way the AI seems unable to incorporate these two features (halo, legs tied) into the image. 
 
-### lamb ai 3
-
+<img src="img/AgnusDeiAI3">
 *'the image still does not have the halo or the lambs legs tied together, can you generate an image with these two features included.'*
 
-### lamb ai 4
-
+<img src="img/AgnusDeiAI4">
 Improvement, the halo is now present, but it’s lost the solemnity of the image, and the legs are still not tied. The AI seems to understand that the halo implies holiness, but that holiness implies a lighter or almost innocent appearance of the painting—the way the lamb now faces the viewer, its leg extended forward over the wood—it doesn’t seem to be able to understand the more nuanced idea that the original painting is portraying that something can be holy but not good. 
 
 *'could you make the image feel more solemn again?'*
 
-### lamb ai 5
-
+<img src="img/AgnusDeiAi5">
 I think this better captures the artistic style of the original, somewhat,  but with the key difference of the lamb’s posture. This rendition has both the tied legs (not all of them, but good enough) and the halo (not quite faint, but once again good enough), and has a similar darkness that feels as though it should be solemn, but again it feels as though it lacks some integral human touch that brings the original piece together. The stillness within this image has a different sense of calm not present in Zurbarán’s original. The posture of the lamb, the AI having disregarded the instruction to have the lamb’s head on the ground, gives a feeling of pride to the lamb that is purposefully absent from the original. Even when I asked for a more solemn image, ChatGPT seems to be struggling with the idea of not making a holy or religious concept have a positive aura. 
 
 The finickiness of the entire process of attempting to work a clear vision through AI leads me to simply feel frustration with this image; it isn’t entirely what I want still, and I anticipate another regeneration to simply result in another insufficient result. Even with this frustration, I wouldn’t say that this “art” causes me to feel much, it is rather the process and tools I am using that frustrates me. 

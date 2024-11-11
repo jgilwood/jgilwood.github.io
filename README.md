@@ -12,7 +12,7 @@ My goal within this project is to take the time to examine my understanding of A
 ## An appreciation of human-made art: Rothko, Arcane Gold, Zurbarán, and JEB
 ### Rothko
 <img src="img/CC Rothko og.png">
-<sub> Mark Rothko, *No. 14 1960*, 1960 </sub>
+<sub> Mark Rothko, <i>No. 14 1960</i>, 1960 </sub>
 <br>
 
 I have many thoughts on this painting, much of it applying to Rothko’s art in general. Much like with most of Rothko’s art, this piece first gives me a profound sense of awe. At first glance, one sees a vibrant swath of a bright red contrasted against a deeper maroon and a dark blue. As you look closer, you can see hints of each individual light layer of paint built up to create incredible depth of color and within the piece in its entirety. Compared against earlier work by Rothko, a difference is clearly apparent. A shift away from his previous more lively pallets gives a new perspective to this piece, confronting the viewer with a new mixture of emotions: namely sadness, and a sense of grief and loss if you are familiar with Rothko’s life story. 
@@ -21,21 +21,21 @@ I have many thoughts on this painting, much of it applying to Rothko’s art in 
 
 ### Arcane Gold
 <img src="img/LePrintempsOg">
-<sub>Arcane Gold, Reimagining of Cot’s *Le Printemps* for *Classics…But Make It Gay* art book, 2021</sub>
+<sub>Arcane Gold, Reimagining of Cot’s <i>Le Printemps</i> for <i>Classics…But Make It Gay</i> art book, 2021</sub>
 <br>
 
 My most surface-level feelings about this piece is simple adoration (The way this depiction of Achilles gazes upon Patroclus is not unlike the way I look at this piece). The lighting, the understanding of human form, the artist’s ability to take what was already a gorgeous painting and add their own perspective on it that only makes it more meaningful to me. To any who question the idea that digital art is true art, I raise this piece: the raw capturing of emotion, the use of color, form, light, shadow, all the traditional gauges of meaningful and beautiful art are on peak display here. I look at this, and I feel pride. Seeing an iconic depiction of pure love reimagined as queer and trans by a queer and trans artist fills me with such a strong sense of joy. I feel honored to have parts of myself represented in such a beautiful way. I am a sucker, for better or for worse, for religious imagery, especially in queer art, and the halo that faintly frames Achilles’ face, holding him, shown here as explicitly queer and trans, as close to Godliness, makes my breath catch in my throat. I really could look at this for hours (and have done so), trying to appreciate every single detail and trace every muscle or fold of fabric. To me, this is divine.
 
 ### Zurbarán
 <img src="img/AgnusDeiOg">
-<sub> Francisco de Zurbarán, *Agnus Dei ('Lamb of God')*, ca. 1635-1640. </sub>
+<sub> Francisco de Zurbarán, <i>Agnus Dei ('Lamb of God')*</i>, ca. 1635-1640. </sub>
 <br>
 
 What did I say! I like religious imagery! With this painting specifically, my love for it comes from the composition, the posing of the lamb. Yes, it is bound, but it doesn’t struggle against its bindings. Best as we can tell, it lies still, calm, maybe it has accepted this fate, or perhaps it wanted this fate all along. I cannot decide whether I feel pity for the lamb (pity for how it ended up in this position? Pity for its desire to stay?) or if I laugh at the lamb, I scorn it for its willingness to accept the promise that its life (and death) will mean something. Or maybe I feel I am the lamb, bound by an unseen presence, one I know must be there, but is not within frame, accepting the path my life has been set upon (do I wish to be pitied or scorned?). This lamb is holy, though we do not know why. Was it chosen for sacrifice by God, or by the shepard? Is the faint halo a true sign of divinity or an odd trick of the light? The scene around the lamb is in total darkness, and yet we see it in perfect light; is this, too, a sign of holiness? This painting leads me to an endless maze of questions, where each turn I take I am simply met with a new concept to ponder. 
 
 ### JEB
 <img src="img/JEBOg">
-<sub>JEB, *Priscilla and Regina. Brooklyn (From Eye to Eye: Portraits of Lesbians)*, 1979
+<sub>JEB, <i>Priscilla and Regina. Brooklyn (From Eye to Eye: Portraits of Lesbians)</i>, 1979 
 </sub>
 <br>
 

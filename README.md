@@ -195,14 +195,6 @@ def gradient_noise_2d(x, y, px, py):
 I used Google Gemini AI to help me with this code to generate Perlin Noise to give my recreating of the Rothko a similar texture and depth as best I could with PIL. I used Gemini because it was the eariest and most convenient way for me to write this code since I was totally unfamiliar with writing code for perlin noise, and because it was built right into the program I was using: Google Colab. I realize now that I almost certainly could have found documentation for code like this very easily online, as I'm sure it's something many people have tried to do before (and, with one simple google search, I did indeed find a github with simple Python Perlin Noise code [here](https://github.com/pvigier/perlin-numpy)), but I decided to take an easier route. I think the parallel that can be drawn here between my unfamiliarity with Python and willingness to use AI as a solution to my problem and the kind of people who most often participate in the creation of AI art is clear enough without me having to explain it in depth. 
 
 ``` python
-# a little weirded out by gemini going beyond what i asked and already moving into making the image "Rothko-esque"
-#consulting gemini to get a better understanding of how the code works, specifically for the colors
-#will likely have to make three separate functions to get the three colors and best replicate the og piece
-
-#moving this down here so i can mess with using a lambda instead of a def <-- he said, proceeding to not do that
-```
-
-``` python
 def create_bg(width, height, num_layers):
   img = Image.new("RGB", (width, height), "black")
   draw = ImageDraw.Draw(img)
@@ -247,6 +239,8 @@ background
 
 top = create_top((25, 475), (50, 375), 1)
 ```
+
+At first, I wanted to try to make each of the different sections of colors their own "layers" (I wanted to first make the background of dark purple, then put a layer of perlin noise with the vibrant blue and red over that) to allow for the different colorfields to have their own perlin noise values. When I tried to inetgrate this, I ended up being told by Colab that the way I had input the coordinates for the ```top``` section would not work because I was attempting to use tuples. Given my limited knowldge, I decided to try an entirely new parth, resolving to instead use color maps to change what color different sections of the one layer of perlin noise would be. 
 
 ``` python
 def color_map_1(noise_value): #background purple
@@ -293,31 +287,9 @@ def create_bg(width, height, num_layers):
 
     return img
 
-
-
-#def create_top(width, height, num_layers):
-#  img= Image.new("RGB", (width, height), "black")
-#  draw = ImageDraw.Draw(img)
-
-#  for _ in range(num_layers):
-#    noise = generate_perlin_noise_2d(width, height, random.uniform(1, 5))
-    
-#    for x in range(width):
-#      for y in range(height):
-#        noise_value = noise[x][y]
-        
-        
-#        red = int(255 * (0.5 + noise_value * 0.5)) - 75
-#       green = int(255 * (0.2 + noise_value * 0.2)) - 75
-#        blue = int(255 * (0.1 + noise_value * 0.1)) - 75
-
-#        draw.point((x, y), fill=(red, green, blue))
-
-
 background = create_bg(500, 650, 1)
 background
 
-#top = create_top((25, 475), (50, 375), 1)
 ```
 <img src="img/PILmake">
 
@@ -329,6 +301,6 @@ While more traditional human-made art (ie. the original Rothko piece) and the PI
 
 When asked to create an image of something it was not trained well on, like creating a scene with two Black Lesbians as I tried with the JEB photograph or depicting a trans person like with Arcane Gold’s Le Printemps, it struggles in a way a human artist would not. A human artist either already has experience or exposure to a more diverse world than the databases that LLMs are trained on, or can seek out new sources and references to help themself improve. For the most part, a prompter has no control over what is or isn’t in the databases that trained the AI they use. Small adjustments could be made to these pieces if they were created with another medium, but, while generating images, AI is not aware of the “bigger picture” in the way a person is, it isn't fully aware of what it is making. Therefore, when asking for a small adjustment, the prompter receives back an entirely different image (with varying success on the requested adjustments being made). 
 
-Art is a form of communication between people. It creates a conversation, often based in emotion, between an artist and a viewer. An artist puts in parts of themself---their ideas, their idetity, their experiences---and a viewer interprets these things based on parts of themself, in some cases even carrying this art with them to influence their own art. When the message a piece of art is supposed to convey is passed off to generative AI to interpret and execute, this message can get misconstrued or, more often, lost completely. 
+Art is a form of communication between people. It creates a conversation, often based in emotion, between an artist and a viewer. An artist puts in parts of themself---their ideas, their idetity, their experiences---and a viewer interprets these things based on parts of themself, in some cases even carrying this art with them to influence their own art. When the message a piece of art is supposed to convey is passed off to generative AI to interpret and execute, this message is either lost or entirely nonexistant. 
 
 All of the conclusions I have come to about AI so far have hinged greatly on the fact that I knew that these images were AI generated, and often, that I was the one generating the images. This, of course, raises the question of if my view of these images would be different if I was unaware that these images were created by generative AI. Could someone looking at these images, detatched from the context I've known them in, have a different (more genuine?) emotional experience than I had? Alternatively, the percieved emotional weight of these images could also be different if they were being examined by someone who wasn't me and was unaware of the fact that these images are attempts to recreate human-made works of art, or were unaware of the struggle that went into generating them. All of these are questions that could be explored more in a additional research-based projects, this time incorporating data from induviduals. 
